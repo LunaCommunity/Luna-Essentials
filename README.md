@@ -1,6 +1,6 @@
 # Luna Essentials
 
-This sample project, covers some of the must-have features for Playable that we reccomend to be included, along with some scripts to help with localisation with two methods both of which are outlined in the documentation. 
+This sample project, covers some of the must-have features for Playable that we recommend to be included, along with some scripts to help with localisation with two methods both of which are outlined in the documentation. 
 
 However, the localisation can be slightly modified to support both methods with either font upload with playground, or from inside Unity.
 
